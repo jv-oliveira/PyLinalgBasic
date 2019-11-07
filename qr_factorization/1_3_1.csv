@@ -1,0 +1,6 @@
+# Um sistema de vibraçao de cinco massas mk = 1, T = l = 1
+-2, 1  , 0  , 0, 0
+1 , -2, 1 , 0, 0
+0 , 1 , -2, 1, 0
+0 , 0  , 1  ,-2, 1
+0 , 0  , 0  , 1, -2
